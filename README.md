@@ -1,0 +1,1 @@
+This is Clifford's first git project!
